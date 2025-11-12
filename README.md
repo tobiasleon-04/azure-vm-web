@@ -30,8 +30,13 @@ Here’s a quick look at my Azure VM deployment and the Nginx web page in action
 4. Added an inbound port rule for HTTP (port 80)
 5. Deployed a custom static HTML site
 
-## Technologies
-- Azure Virtual Machines
-- Nginx
-- Ubuntu Linux
-- Cloud Shell
+## Tools & Skills used
+
+Microsoft Azure: used to create and manage all cloud resources
+- Azure Resource Groups: organized and managed related project assets
+- Azure Virtual Machines (Ubuntu Linux): hosted and served the web page
+- Azure Network Security Groups (NSG): configured inbound rules to allow HTTP traffic on port 80
+- Nginx Web Server: installed and configured to deliver static web content
+- Azure Cloud Shell / Bash CLI: handled deployments, configurations, and verification tasks
+- Linux Administration: connected via SSH, managed the server, and verified service status
+- Firewall Configuration: opened only necessary ports to ensure secure access
