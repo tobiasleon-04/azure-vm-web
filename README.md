@@ -32,7 +32,6 @@ Here’s a quick look at my Azure VM deployment and the Nginx web page in action
 
 ## Tools & Skills used
 
-Microsoft Azure: used to create and manage all cloud resources
 - Azure Resource Groups: organized and managed related project assets
 - Azure Virtual Machines (Ubuntu Linux): hosted and served the web page
 - Azure Network Security Groups (NSG): configured inbound rules to allow HTTP traffic on port 80
