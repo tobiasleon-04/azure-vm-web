@@ -9,6 +9,20 @@ A simple Nginx-based static site is hosted on an Azure Ubuntu VM. The project sh
 - Networking and NSG management
 - Web server setup and HTTP access
 
+## Project Screenshots
+
+Here’s a quick look at my Azure VM deployment and the Nginx web page in action.
+
+### Ubuntu Server Running
+![Ubuntu Version Screenshot](images/ubuntu-version-ss.png)
+
+### Nginx Active and Running
+![Nginx Running](images/nginx-status-ss.png)
+
+### Web Page Live in Browser
+![Web Page Screenshot](images/web-screenshot.png)
+
+
 ## Steps
 1. Created a resource group and Ubuntu VM (D2_v3)
 2. Connected via SSH from the Azure Cloud Shell
