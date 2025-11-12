@@ -2,7 +2,7 @@
 
 This project demonstrates how to deploy and configure a web server on a Linux Virtual Machine in Microsoft Azure using only free-tier resources.
 
-## Overview
+## Quick look
 A simple Nginx-based static site is hosted on an Azure Ubuntu VM. The project shows skills in:
 - Azure virtual machine deployment
 - Linux server configuration
